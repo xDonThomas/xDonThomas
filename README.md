@@ -38,8 +38,8 @@ Backend-focused Fullstack Software Engineer with over 8 years of self-taught exp
 ### 📦 Featured Open Source & Projects
 
 * **[Thalma](https://github.com/xDonThomas/)** - A complete multi-tenant billing suite designed with a microservices infrastructure using **Go** and **Hexagonal Architecture**.
-* **[Element](https://github.com/xDonThomas/)** - A custom open-source frontend framework migrated to TypeScript to optimize UI rendering across various applications.
-* **[TWLC (T Writer Logger Console)](https://github.com/xDonThomas/)** - A flexible, high-performance, colorized logging package for Go applications with automated struct-to-JSON serialization.
+* **[Element](https://github.com/xDonThomas/X)** - A custom open-source frontend framework migrated to TypeScript to optimize UI rendering across various applications.
+* **[TWLC (T Writer Logger Console)](https://github.com/xDonThomas/twlc)** - A flexible, high-performance, colorized logging package for Go applications with automated struct-to-JSON serialization.
 
 ---
 
