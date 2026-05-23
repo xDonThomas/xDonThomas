@@ -46,8 +46,8 @@ Backend-focused Fullstack Software Engineer with over 8 years of self-taught exp
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xDonThomas&show_icons=true&theme=tokyonight&count_private=true" alt="Darlyn's GitHub Stats" height="180M" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xDonThomas&layout=compact&theme=tokyonight" alt="Top Languages" height="180M" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xDonThomas&theme=tokyonight&hide_border=true" alt="Darlyn's GitHub Streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xDonThomas&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
